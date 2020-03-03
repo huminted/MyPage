@@ -18,12 +18,12 @@
         <div class="link">
           <router-link to="/">HOME</router-link>
         </div>
-        <div class="link">
+        <!-- <div class="link">
           <router-link to="/about">ABOUT</router-link>
         </div>
         <div class="link">
           <router-link to="/subscribe">SUBSCRIBE</router-link>
-        </div>
+        </div> -->
       </template>
     </vue-navigation-bar>
 
@@ -36,20 +36,19 @@
         <p>
           Built with ♥ and
           <a href="https://vuejs.org/">Vue.js</a> | CSS animations by
-          <a href="http://animista.net/">Animista</a> | Proudly deployed on
-          <a href="https://netlify.com/">Netlify</a>
+          <a href="http://animista.net/">Animista</a> 
         </p>
-        <p>
+        <!-- <p>
           Designed, coded, and deployed from scratch by Spencer Woo. Open source on
           <a
             href="https://github.com/spencerwooo/portfolio"
           >GitHub</a>.
-        </p>
+        </p> -->
         <p id="busuanzi_container_site_pv">
           Viewed by you guys for a total of
           <span id="busuanzi_value_site_pv"></span> times ♥
         </p>
-        <p id="footer-copyright">©{{ getYear() }} Spencer Woo</p>
+        <p id="footer-copyright">©{{ getYear() }}  Humin</p>
       </div>
     </div>
   </div>
@@ -71,7 +70,7 @@ export default {
           {
             type: 'button',
             text: '🌟 ME ON GITHUB',
-            path: 'https://github.com/spencerwooo/portfolio',
+            path: 'https://github.com/huminted/',
             class: 'button-github'
           }
         ]
