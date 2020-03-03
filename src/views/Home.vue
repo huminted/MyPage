@@ -10,7 +10,6 @@
       <a href="https://github.com/huminted/WakeUpClock/">' WakeUp , A Clock Based On Android '</a>
     </p>
 
-
     <hr id="top-hr" />
     <h3>🎉 Where to find me:</h3>
     <div id="card-container">
