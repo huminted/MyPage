@@ -62,9 +62,7 @@
 
       <p>🧨 感谢大哥的关注！给您拜年了！干杯 🍻</p>
 
-      <a href="https://github.com/spencerwooo/portfolio">
-        <img src="https://raw.githubusercontent.com/spencerwooo/portfolio/master/public/copyright.png" alt="copyright" width="240px" height="auto" />
-      </a>
+      
     </div>
   </div>
 </template>

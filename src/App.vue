@@ -49,6 +49,9 @@
           <span id="busuanzi_value_site_pv"></span> times ♥
         </p>
         <p id="footer-copyright">©{{ getYear() }}  Humin</p>
+        <a href="https://github.com/spencerwooo/portfolio">
+        <img src="https://raw.githubusercontent.com/spencerwooo/portfolio/master/public/copyright.png" alt="copyright" width="240px" height="auto" />
+      </a>
       </div>
     </div>
   </div>
