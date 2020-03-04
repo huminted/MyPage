@@ -42,7 +42,7 @@
 
     <div id="others">
       <hr />
-      <h3>你还可以在这些地方偶尔发现一只我：</h3>
+      <h3>你还可以在这些地方偶尔发现我：</h3>
       <div class="social-media">
         <div class="social-media-card">
           <img class="media-icon" src="@/assets/twitter.png" alt="twitter" />
@@ -59,10 +59,7 @@
           </span>
         </div>
       </div>
-
       <p>🧨 感谢大哥的关注！给您拜年了！干杯 🍻</p>
-
-      
     </div>
   </div>
 </template>
