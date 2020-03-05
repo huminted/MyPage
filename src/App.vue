@@ -18,10 +18,10 @@
         <div class="link">
           <router-link to="/">HOME</router-link>
         </div>
-        <!-- <div class="link">
+        <div class="link">
           <router-link to="/about">ABOUT</router-link>
         </div>
-        <div class="link">
+        <!-- <div class="link">
           <router-link to="/subscribe">SUBSCRIBE</router-link>
         </div> -->
       </template>
@@ -72,8 +72,8 @@ export default {
         menuOptionsRight: [
           {
             type: 'button',
-            text: '🌟 ME ON GITHUB',
-            path: 'https://github.com/huminted/',
+            text: '🌟 查看我的OpenWRT固件',
+            path: 'http://iwakeup.cn:8083/',
             class: 'button-github'
           }
         ]
