@@ -18,9 +18,9 @@
         <div class="link">
           <router-link to="/">HOME</router-link>
         </div>
-        <div class="link">
+        <!-- <div class="link">
           <router-link to="/about">ABOUT</router-link>
-        </div>
+        </div> -->
         <!-- <div class="link">
           <router-link to="/subscribe">SUBSCRIBE</router-link>
         </div> -->
