@@ -4,7 +4,7 @@
     <h1>胡敏 / Humin</h1>
     <h2>👨‍🎨 👨‍💻 🙋‍♂️</h2>
 
-    <p>Android Developer / Baidu ZhiDao Egineer / Java / SiChuanger</p>
+    <p>Android Developer / Baidu ZhiDao Engineer / Java </p>
     <p>
       * he is also the creator of
       <a href="https://github.com/huminted/WakeUpClock/">' WakeUp , A Clock Based On Android '</a>
