@@ -2,51 +2,58 @@
   <div class="container">
     <div id="name-container">
       <img id="avatar" src="./../assets/images/av.png" alt="avatar" />
-      <h1>Spencer Woo</h1>
+      <h1>Humin</h1>
     </div>
     <div class="title-desc-container">
       <a id="github" href="https://github.com/huminand" target="_blank" rel="noopener noreferrer"
         ><img class="title-font" src="./../assets/images/github.svg" />Developer</a
       >
       <span>/</span>
-      <!-- <a id="sspai" href="https://sspai.com/u/spencerwoo/posts" target="_blank" rel="noopener noreferrer"
-        ><img class="title-font" src="./../assets/images/sspai.svg" />Writer</a
-      > -->
+      <a id="sspai" href="https://sspai.com/u/spencerwoo/posts" target="_blank" rel="noopener noreferrer"
+        ><img class="title-font" src="./../assets/images/android.ico" />Writer</a
+      >
       <span>/</span>
-      <!-- <a id="blog" href="https://blog.spencerwoo.com" target="_blank" rel="noopener noreferrer"
-        ><img class="title-font" src="./../assets/images/zeit.svg" />Blogger</a
-      > -->
+      <a id="blog" href="https://www.zhihu.com/people/humin" target="_blank" rel="noopener noreferrer"
+        ><img class="title-font" src="./../assets/images/zeit.svg" />Zhihu</a
+      >
     </div>
     <div class="article">
       <h2>WHO AM I</h2>
       <p>
-        I'm <i>Humin</i> with the ID <i>Huminand</i>. A Android Software Enginner
-      <p> work for<i>Baidu Zhidao</i> <p>
+        I'm <i>Humin</i> with the ID <i>Huminand</i>. A <i>Android Software Enginner</i> Based in Beijing
+      <p>Work for<i>Baidu Zhidao 1 Year</i> <p>
         Some other variations:
-        <a href="https://twitter.com/humin147" target="_blank" rel="noopener noreferrer">@Humin</a> /
-        <a href="https://weibo.com/win8humin" target="_blank" rel="noopener noreferrer">@Humin</a> /
-        <a href="https://github.com/huminand" target="_blank" rel="noopener noreferrer">@Humin</a>. You may
-        know me from GitHub / Weibo / Twitter or other places. Yes, those are also me.
+        <a href="https://twitter.com/humin147" target="_blank" rel="noopener noreferrer">@Humin147</a> /
+        <a href="https://weibo.com/win8humin" target="_blank" rel="noopener noreferrer">@Huminand</a> /
+        <a href="https://github.com/huminand" target="_blank" rel="noopener noreferrer">@Huminand</a>. 
+        You may know me from GitHub / Weibo / Twitter or other places. Yes, those are also me.
       </p>
 
       <h2>Academics</h2>
       <ul>
-        <li>🔭 <b>Fields of interest:</b>  Android / Kotlin / Documentary</li>
+        <li>🔭 <b>Fields of interest:</b></li>
+          <ul>
+             <li>Programming: Android / Kotlin / JS  </li> 
+             <li>Singer: Jacky Cheung  </li> 
+          </ul>
+
       </ul>
 
       <h2>Devices</h2>
       <ul>
-        <li>MacBook Pro 2020</li>
-        <li>iPhone 12 / iPad 7th / OnePlus 5 </li>
+        <li> MacBook Pro 2020</li>
+        <li> iPhone 12 /  iPad 7th / OnePlus 5 </li>
       </ul>
-
-     
-
       <h2>Contacts</h2>
       <ul>
         <li>
           <b>Email：</b>
-          <a href="mailto:humin.ted@gmail.com">humin.ted#gmail.com</a><i> (Preferred)</i>
+          <a href="mailto:humin.ted@gmail.com">humin.ted#gmail.com</a><i> (private)</i>
+        </li>
+
+        <li>
+          <b>Find job? Send me your resume</b>
+          <a href="mailto:humin06@baidu.com">humin06#baidu.com</a><i> (Company)</i>
         </li>
       </ul>
     </div>

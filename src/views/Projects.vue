@@ -4,61 +4,34 @@
     <p>Projects I participated in and/or developed.</p>
 
     <GitHubCard
-      title="📟 Dev on Windows with WSL"
-      link="https://github.com/spencerwooo/dowww"
+      title="📟 Android ClockDays View"
+      link="https://github.com/huminted/ClockDays"
       :info="dowwwInfo"
       :loading="loading"
     >
-      <p>
-        WSL development best practices. Available at:
-        <a href="https://dowww.spencerwoo.com/">Dev on Windows with WSL</a>.
-      </p>
     </GitHubCard>
 
     <GitHubCard
       title="📈 Substats"
-      link="https://github.com/spencerwooo/Substats"
+      link="https://github.com/huminted/WakeUpClock"
       :info="substatsInfo"
       :loading="loading"
     >
       <p>
-        Serverless function to count how many people are subscribed to you in your favorite services. Supporting Feedly,
-        Inoreader, GitHub, Twitter, Jike, Zhihu, and much more.
+       醒来”是一款Android平台上的闹钟软件，具有备忘和提醒的功能，铃声也具有个性化，在设计界面上采用谷歌扁平化风格。
+       整个APP十分简洁，颜色主要采用浅绿色带给用户一种安静祥和的感受，其编写拥有市面上同类产品不具有的许多创新、实用的功能。
       </p>
     </GitHubCard>
 
     <GitHubCard
       title="📖 BIThesis"
-      link="https://github.com/BITNP/BIThesis"
+      link="https://github.com/huminted/FaceLcoker"
       :info="bithesisInfo"
       :loading="loading"
     >
       <p>
-        LaTeX templates for your bachelor graduation thesis (and more) here at BIT.
+       ☺基于虹软SDK的人脸识别系统
       </p>
-    </GitHubCard>
-
-    <GitHubCard
-      title="💡 FATES"
-      link="https://github.com/SecureCats/Evaluation_BackEnd"
-      :info="fatesInfo"
-      :loading="loading"
-    >
-      <p>
-        <b>The Fully Anonymous Teaching Evaluation System:</b> a project that won National 2nd Prize on the
-        <a href="http://www.ciscn.cn/">National College Student Information Security Contest</a>, based on OPAAK and CL
-        signatures. More on:
-        <a href="https://medium.com/spencerweekly/recap-on-fates-d9d17a6a7827">Medium - Recap on project FATES.</a>
-      </p>
-    </GitHubCard>
-
-    <GitHubCard
-      title="💻 My dotfiles"
-      link="https://github.com/spencerwooo/dotfiles"
-      :info="dotfilesInfo"
-      :loading="loading"
-    >
-      <p>I freaking can't believe it that this is my most starred project...</p>
     </GitHubCard>
   </div>
 </template>

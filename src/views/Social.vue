@@ -11,34 +11,9 @@
           suffix="members"
           icon="telegram.png"
           :loading="telegram.loading"
-          link="https://t.me/realSpencerWoo"
-        />
-        <statCard
-          statTitle="Jike"
-          :followers="jike.data"
-          suffix="followers"
-          icon="jike.png"
-          :loading="jike.loading"
-          link="https://m.okjike.com/users/4DDA0425-FB41-4188-89E4-952CA15E3C5E"
+          link="https://t.me/huminand"
         />
       </div>
-      <div class="row-container">
-        <statCard
-          statTitle="RSS"
-          :followers="rss.data"
-          suffix="subscribers"
-          icon="rss.png"
-          :loading="rss.loading"
-          link="https://blog.spencerwoo.com/posts/index.xml"
-        />
-        <statCard
-          statTitle="SSPAI"
-          :followers="sspai.data"
-          suffix="followers"
-          icon="sspai.png"
-          :loading="sspai.loading"
-          link="https://sspai.com/u/spencerwoo/posts"
-        />
       </div>
       <div class="row-container">
         <statCard
@@ -47,7 +22,7 @@
           suffix="fans"
           icon="weibo.png"
           :loading="weibo.loading"
-          link="https://weibo.com/spencerwoo"
+          link="https://weibo.com/win8humin"
         />
         <statCard
           statTitle="Zhihu"
@@ -55,7 +30,7 @@
           suffix="followers"
           icon="zhihu.png"
           :loading="zhihu.loading"
-          link="https://www.zhihu.com/people/spencerwoo"
+          link="https://www.zhihu.com/people/humin"
         />
       </div>
       <div class="row-container">
@@ -65,7 +40,7 @@
           suffix="followers"
           icon="twitter.png"
           :loading="twitter.loading"
-          link="https://twitter.com/realSpencerWoo"
+          link="https://twitter.com/humin147"
         />
         <statCard
           statTitle="GitHub"
@@ -73,34 +48,19 @@
           suffix="followers"
           icon="github.png"
           :loading="github.loading"
-          link="https://github.com/spencerwooo"
+          link="https://github.com/huminted"
         />
       </div>
-      <div class="row-container">
-        <statCard
-          statTitle="Medium"
-          :followers="medium.data"
-          suffix="readers"
-          icon="medium.png"
-          :loading="medium.loading"
-          link="https://medium.com/spencerweekly"
-        />
-        <statCard
-          statTitle="Steam Games"
-          :followers="steamGames.data"
-          suffix="games"
-          icon="steam.png"
-          :loading="steamGames.loading"
-          link="https://steamcommunity.com/id/firebearllc/"
-        />
-      </div>
-    </div>
 
-    <p id="substats-footer">
+
+  <p id="substats-footer">
       * Follower statistics powered by:
       <a href="https://api.spencerwoo.com/substats">Substats</a>.
     </p>
+
   </div>
+  
+
 </template>
 
 <script>
