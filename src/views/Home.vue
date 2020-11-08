@@ -10,7 +10,7 @@
       >
       <span>/</span>
       <a id="sspai" href="https://sspai.com/u/spencerwoo/posts" target="_blank" rel="noopener noreferrer"
-        ><img class="title-font" src="./../assets/images/android.ico" />Writer</a
+        ><img class="title-font" src="./../assets/images/github.svg" />Writer</a
       >
       <span>/</span>
       <a id="blog" href="https://www.zhihu.com/people/humin" target="_blank" rel="noopener noreferrer"
