@@ -22,14 +22,14 @@
     <div class="article">
       <h2>WHO AM I</h2>
       <p>
-        I'm <i>Humin</i> with the ID <i>Huminand</i>. A <i>Android Software Enginner</i> Based in Beijing
+        I'm <i>Humin</i> with the ID <i>Huminand</i>.<br> A <i>Android Software Enginner</i> Based in Beijing
       <p>Work for <i><img class="title-font" src="./../assets/images/baidu.svg" /> Baidu Zhidao 1 Year</i> <p>
         Some other variations:
         <a href="https://twitter.com/humin147" target="_blank" rel="noopener noreferrer">@Humin147</a> /
         <a href="https://weibo.com/win8humin" target="_blank" rel="noopener noreferrer">@Huminand</a> /
         <a href="https://github.com/huminand" target="_blank" rel="noopener noreferrer">@Huminand</a>. 
         You may know me from 
-        <img class="title-font" src="./../assets/images/gihub.svg" />GitHub / 
+        <img class="title-font" src="./../assets/images/github.svg" />GitHub / 
          <img class="title-font" src="./../assets/images/weibo.svg" />Weibo / 
          <img class="title-font" src="./../assets/images/twitter.svg" />Twitter or other places. Yes, those are also me.
       </p>
