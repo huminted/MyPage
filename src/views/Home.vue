@@ -21,7 +21,7 @@
       <h2>WHO AM I</h2>
       <p>
         I'm <i>Humin</i> with the ID <i>Huminand</i>. A <i>Android Software Enginner</i> Based in Beijing
-      <p>Work for<i>Baidu Zhidao 1 Year</i> <p>
+      <p>Work for<i>  <img class="title-font" src="./../assets/images/baidu.svg" /> Baidu Zhidao 1 Year</i> <p>
         Some other variations:
         <a href="https://twitter.com/humin147" target="_blank" rel="noopener noreferrer">@Humin147</a> /
         <a href="https://weibo.com/win8humin" target="_blank" rel="noopener noreferrer">@Huminand</a> /
@@ -33,7 +33,10 @@
       <ul>
         <li>🔭 <b>Fields of interest:</b></li>
           <ul>
-             <li>Programming: Android / Kotlin / JS  </li> 
+             <li>Programming: 
+               <img class="title-font" src="./../assets/images/android.svg" />Android / 
+               <img class="title-font" src="./../assets/images/kotlin.svg" />Kotlin / 
+               <img class="title-font" src="./../assets/images/kotlin.svg" />JS  </li> 
              <li>Singer: Jacky Cheung  </li> 
           </ul>
 
@@ -43,6 +46,13 @@
       <ul>
         <li> MacBook Pro 2020</li>
         <li> iPhone 12 /  iPad 7th / OnePlus 5 </li>
+      </ul>
+      <h2>Tools</h2>
+      <ul>
+            <li> <a><img class="title-font" src="./../assets/images/as.svg" /> Android Studio</a>  </li>
+            <li> <a><img class="title-font" src="./../assets/images/idea.svg" />IDEA</a>  </li>
+            <li> <a><img class="title-font" src="./../assets/images/vsc.svg" /> Visual Studio</a>  </li>
+ 
       </ul>
       <h2>Contacts</h2>
       <ul>
