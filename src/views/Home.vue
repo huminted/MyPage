@@ -2,7 +2,7 @@
   <div class="container">
     <div id="name-container">
       <img id="avatar" src="./../assets/images/av.png" alt="avatar" />
-      <h1>Humin</h1>
+      <h1>Humin / 胡敏</h1>
     </div>
     <div class="title-desc-container">
       <a id="github" href="https://github.com/huminted" target="_blank" rel="noopener noreferrer"
