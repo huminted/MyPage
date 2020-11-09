@@ -28,7 +28,7 @@
         <a href="https://twitter.com/humin147" target="_blank" rel="noopener noreferrer">@Humin147</a> /
         <a href="https://weibo.com/win8humin" target="_blank" rel="noopener noreferrer">@Huminand</a> /
         <a href="https://github.com/huminand" target="_blank" rel="noopener noreferrer">@Huminand</a>. 
-        You may know me from 
+        You may know me from:<br> 
         <img class="title-font" src="./../assets/images/github.svg" />GitHub / 
          <img class="title-font" src="./../assets/images/weibo.svg" />Weibo / 
          <img class="title-font" src="./../assets/images/twitter.svg" />Twitter or other places. Yes, those are also me.
@@ -63,9 +63,9 @@
       <h2>Music</h2>
       <ul>
         <li>Jacky Cheung</li>
-        <li><img class="title-font" src="./../assets/images/applemusic.svg" />Apple Music</li>
-         <li><img class="title-font" src="./../assets/images/spotify.svg" />Spofity</li>
-          <li><img class="title-font" src="./../assets/images/doubanfm.svg" />Douban FM</li>
+        <li><img class="title-font-music" src="./../assets/images/applemusic.svg" />Apple Music</li>
+         <li><img class="title-font-music" src="./../assets/images/spotify.svg" />Spofity</li>
+          <li><img class="title-font-music" src="./../assets/images/doubanfm.svg" />Douban FM</li>
 
       </ul>
 
@@ -105,9 +105,13 @@
 }
 
 .title-font {
-  width: 16px;
-  height: 16px;
-  margin-right: 4px;
+  width: 20px;
+  height: 20px;
+  margin-right: 6px;
+}
+.title-font-music {
+    width: 50px;
+    margin-right: 4px;
 }
 
 .title-desc-container {
@@ -137,4 +141,5 @@
 .title-desc-container #blog {
   color: #0070f3;
 }
+
 </style>
