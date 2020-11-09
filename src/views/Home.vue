@@ -5,12 +5,12 @@
       <h1>Humin</h1>
     </div>
     <div class="title-desc-container">
-      <a id="github" href="https://github.com/huminand" target="_blank" rel="noopener noreferrer"
+      <a id="github" href="https://github.com/huminted" target="_blank" rel="noopener noreferrer"
         ><img class="title-font" src="./../assets/images/as.svg" />Developer</a
       >
       <span>/</span>
       
-      <a id="github" href="https://www.douban.com/people/huminand/" target="_blank" rel="noopener noreferrer"
+      <a id="douban" href="https://www.douban.com/people/huminand/" target="_blank" rel="noopener noreferrer"
         ><img class="title-font" src="./../assets/images/douban.svg" />Douban</a
       >
      
@@ -134,8 +134,8 @@
   color: #24292e;
 }
 
-.title-desc-container #sspai {
-  color: #ca2c2a;
+.title-desc-container #douban {
+  color: greenyellow;
 }
 
 .title-desc-container #blog {
