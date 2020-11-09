@@ -14,53 +14,49 @@
           link="https://t.me/huminand"
         />
       </div>
-      </div>
-      <div class="row-container">
-        <statCard
-          statTitle="Weibo"
-          :followers="weibo.data"
-          suffix="fans"
-          icon="weibo.png"
-          :loading="weibo.loading"
-          link="https://weibo.com/win8humin"
-        />
-        <statCard
-          statTitle="Zhihu"
-          :followers="zhihu.data"
-          suffix="followers"
-          icon="zhihu.png"
-          :loading="zhihu.loading"
-          link="https://www.zhihu.com/people/humin"
-        />
-      </div>
-      <div class="row-container">
-        <statCard
-          statTitle="Twitter"
-          :followers="twitter.data"
-          suffix="followers"
-          icon="twitter.png"
-          :loading="twitter.loading"
-          link="https://twitter.com/humin147"
-        />
-        <statCard
-          statTitle="GitHub"
-          :followers="github.data"
-          suffix="followers"
-          icon="github.png"
-          :loading="github.loading"
-          link="https://github.com/huminted"
-        />
-      </div>
+    </div>
+    <div class="row-container">
+      <statCard
+        statTitle="Weibo"
+        :followers="weibo.data"
+        suffix="fans"
+        icon="weibo.png"
+        :loading="weibo.loading"
+        link="https://weibo.com/win8humin"
+      />
+      <statCard
+        statTitle="Zhihu"
+        :followers="zhihu.data"
+        suffix="followers"
+        icon="zhihu.png"
+        :loading="zhihu.loading"
+        link="https://www.zhihu.com/people/humin"
+      />
+    </div>
+    <div class="row-container">
+      <statCard
+        statTitle="Twitter"
+        :followers="twitter.data"
+        suffix="followers"
+        icon="twitter.png"
+        :loading="twitter.loading"
+        link="https://twitter.com/humin147"
+      />
+      <statCard
+        statTitle="GitHub"
+        :followers="github.data"
+        suffix="followers"
+        icon="github.png"
+        :loading="github.loading"
+        link="https://github.com/huminted"
+      />
+    </div>
 
-
-  <p id="substats-footer">
+    <p id="substats-footer">
       * Follower statistics powered by:
       <a href="https://api.spencerwoo.com/substats">Substats</a>.
     </p>
-
   </div>
-  
-
 </template>
 
 <script>
@@ -99,34 +95,34 @@ export default {
     const steamGamesAxios = this.axios.get(`${apiUrl}/?source=steamGames&queryKey=76561198336249957`)
     const telegramAxios = this.axios.get(`${apiUrl}/?source=telegram&queryKey=realSpencerWoo`)
 
-    rssAxios.then(r => {
+    rssAxios.then((r) => {
       this.rss = { data: r.data.data.totalSubs, loading: false }
     })
-    sspaiAxios.then(r => {
+    sspaiAxios.then((r) => {
       this.sspai = { data: r.data.data.totalSubs, loading: false }
     })
-    jikeAxios.then(r => {
+    jikeAxios.then((r) => {
       this.jike = { data: r.data.data.totalSubs, loading: false }
     })
-    zhihuAxios.then(r => {
+    zhihuAxios.then((r) => {
       this.zhihu = { data: r.data.data.totalSubs, loading: false }
     })
-    weiboAxios.then(r => {
+    weiboAxios.then((r) => {
       this.weibo = { data: r.data.data.totalSubs, loading: false }
     })
-    twitterAxios.then(r => {
+    twitterAxios.then((r) => {
       this.twitter = { data: r.data.data.totalSubs, loading: false }
     })
-    mediumAxios.then(r => {
+    mediumAxios.then((r) => {
       this.medium = { data: r.data.data.totalSubs, loading: false }
     })
-    githubAxios.then(r => {
+    githubAxios.then((r) => {
       this.github = { data: r.data.data.totalSubs, loading: false }
     })
-    steamGamesAxios.then(r => {
+    steamGamesAxios.then((r) => {
       this.steamGames = { data: r.data.data.totalSubs, loading: false }
     })
-    telegramAxios.then(r => {
+    telegramAxios.then((r) => {
       this.telegram = { data: r.data.data.totalSubs, loading: false }
     })
   },
