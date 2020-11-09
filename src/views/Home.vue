@@ -42,7 +42,7 @@
                <img class="title-font" src="./../assets/images/java.svg" />Java / 
                <img class="title-font" src="./../assets/images/android.svg" />Android / 
                <img class="title-font" src="./../assets/images/kotlin.svg" />Kotlin / 
-               <img class="title-font" src="./../assets/images/kotlin.svg" />JS  </li> 
+               <img class="title-font" src="./../assets/images/js.svg" />JS  </li> 
              
           </ul>
       </ul>
@@ -63,9 +63,9 @@
       <h2>Music</h2>
       <ul>
         <li>Jacky Cheung</li>
-        <li><img class="title-font" src="./../assets/images/applemusic.svg" /></li>
-         <li><img class="title-font" src="./../assets/images/spotify.svg" /></li>
-          <li><img class="title-font" src="./../assets/images/doubanfm.svg" /></li>
+        <li><img class="title-font" src="./../assets/images/applemusic.svg" />Apple Music</li>
+         <li><img class="title-font" src="./../assets/images/spotify.svg" />Spofity</li>
+          <li><img class="title-font" src="./../assets/images/doubanfm.svg" />Douban FM</li>
 
       </ul>
 
