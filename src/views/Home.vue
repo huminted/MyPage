@@ -111,7 +111,7 @@
 }
 .title-font-music {
     width: 50px;
-    margin-right: 4px;
+    margin-right: 8px;
 }
 
 .title-desc-container {
