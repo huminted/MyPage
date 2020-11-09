@@ -135,7 +135,7 @@
 }
 
 .title-desc-container #douban {
-  color: greenyellow;
+  color: green;
 }
 
 .title-desc-container #blog {
