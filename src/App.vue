@@ -47,16 +47,16 @@ export default {
             text: 'HOME',
             path: '/',
           },
-          {
-            type: 'link',
-            text: 'PROJECTS',
-            path: '/projects',
-          },
-          {
-            type: 'link',
-            text: 'SOCIAL',
-            path: '/social',
-          },
+          // {
+          //   type: 'link',
+          //   text: 'PROJECTS',
+          //   path: '/projects',
+          // },
+          // {
+          //   type: 'link',
+          //   text: 'SOCIAL',
+          //   path: '/social',
+          // },
         ],
       },
     }

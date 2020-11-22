@@ -28,9 +28,8 @@ const router = new VueRouter({
   base: process.env.BASE_URL,
   routes: [
     { path: '/', component: Home },
-    { path: '/projects', component: Projects },
-    { path: '/social', component: Social },
-
+    // { path: '/projects', component: Projects },
+    // { path: '/social', component: Social },
     // Not found
     { path: '/*', component: NotFound }
   ]

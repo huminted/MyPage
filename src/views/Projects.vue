@@ -12,7 +12,7 @@
     </GitHubCard>
 
     <GitHubCard
-      title="📈 Substats"
+      title="📈 WakeUpClock"
       link="https://github.com/huminted/WakeUpClock"
       :info="substatsInfo"
       :loading="loading"
@@ -23,8 +23,8 @@
       </p>
     </GitHubCard>
 
-    <GitHubCard
-      title="📖 BIThesis"
+    <!-- <GitHubCard
+      title="📖 FaceLcoker"
       link="https://github.com/huminted/FaceLcoker"
       :info="bithesisInfo"
       :loading="loading"
@@ -32,7 +32,7 @@
       <p>
        ☺基于虹软SDK的人脸识别系统
       </p>
-    </GitHubCard>
+    </GitHubCard> -->
   </div>
 </template>
 
