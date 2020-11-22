@@ -42,11 +42,11 @@ export default {
         ariaLabelMainNav: 'Main Navigation',
         isUsingVueRouter: true,
         menuOptionsRight: [
-          {
-            type: 'link',
-            text: 'HOME',
-            path: '/',
-          },
+          // {
+          //   type: 'link',
+          //   text: 'HOME',
+          //   path: '/',
+          // },
           // {
           //   type: 'link',
           //   text: 'PROJECTS',
