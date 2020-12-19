@@ -50,6 +50,9 @@
             <img class="title-font" src="./../assets/images/kotlin.svg" />Kotlin /
             <img class="title-font" src="./../assets/images/js.svg" />JS
           </li>
+          <li>
+            Documentory
+          </li>
         </ul>
       </ul>
 
