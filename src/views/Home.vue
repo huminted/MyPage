@@ -59,6 +59,7 @@
       <h2>Devices</h2>
       <ul>
         <li> MacBook Pro 2020</li>
+        <li> Mac Mini with M1 Chip</li>
         <li> iPhone 12 /  iPad 7th / OnePlus 5</li>
       </ul>
       <h2>Tools</h2>
@@ -71,7 +72,7 @@
 
       <h2>Music</h2>
       <ul>
-        <li><i>Jacky Cheung</i></li>
+        <li>❤️ <i>Jacky Cheung</i></li>
         <li><img class="title-font-music" src="./../assets/images/applemusic.svg" /><i>Apple Music</i></li>
         <li><img class="title-font-music" src="./../assets/images/spotify.svg" /><i>Spofity</i></li>
         <li><img class="title-font-music" src="./../assets/images/doubanfm.svg" /><i>Douban FM</i></li>
