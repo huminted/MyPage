@@ -85,10 +85,10 @@
           <a href="mailto:humin.ted@gmail.com">humin.ted#gmail.com</a><i> (private)</i>
         </li>
 
-        <li>
+        <!-- <li>
           <b>Find job? Send me your resume</b>
           <a href="mailto:humin06@baidu.com">humin06#baidu.com</a><i> (Company)</i>
-        </li>
+        </li> -->
       </ul>
     </div>
   </div>
