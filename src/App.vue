@@ -12,7 +12,7 @@
           Viewed by you guys for a total of
           <span id="busuanzi_value_site_pv"></span> times ♥
         </p>
-        <p id="footer-copyright">©2019 - {{ getYear() }} Powered By Spencer Woo</p>
+        <p id="footer-copyright">©2019 - {{ new Date().getFullYear() }} Powered By Spencer Woo</p>
       </div>
     </div>
   </div>
@@ -53,7 +53,9 @@ export default {
   },
   methods: {
     getYear() {
-      return new Date().getFullYear()
+
+      var date=new Date()
+      return parseInt(date.getMonth/12)
     },
   },
 }

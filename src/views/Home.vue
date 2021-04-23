@@ -27,7 +27,7 @@
       </p>
 
       <p>
-        Work for <i><img class="title-font" src="./../assets/images/baidu.svg" /> Baidu Zhidao 1 Year</i>
+        Work for <i><img class="title-font" src="./../assets/images/baidu.svg" /> Baidu Zhidao {{getYear()}} Year</i>
       </p>
       <p>
         Some other variations:
@@ -85,14 +85,29 @@
           <a href="mailto:humin.ted@gmail.com">humin.ted#gmail.com</a><i> (private)</i>
         </li>
 
-        <!-- <li>
-          <b>Find job? Send me your resume</b>
+        <li>
+          <b>Find job? Send me your resume:</b>
+          <a href="http://hr.baidu.com/external/baidu/index.html#/jobDetail/2/189531"> </a>
           <a href="mailto:humin06@baidu.com">humin06#baidu.com</a><i> (Company)</i>
-        </li> -->
+        </li>
       </ul>
     </div>
   </div>
 </template>
+
+<script>
+
+
+export default {
+  
+  methods: {
+    getYear() {
+    let staytimeGap = new Date().getTime() - new Date(2020,7).getTime();
+    return parseFloat(staytimeGap/(24*60*60*1000*365)).toFixed(2)
+    },
+  },
+}
+</script>
 
 <style lang="css" scoped>
 #name-container {
