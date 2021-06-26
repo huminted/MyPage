@@ -14,10 +14,10 @@
         ><img class="title-font" src="./../assets/images/douban.svg" />Douban</a
       >
 
-      <span>/</span>
+      <!-- <span>/</span>
       <a id="blog" href="https://www.zhihu.com/people/humin" target="_blank" rel="noopener noreferrer"
         ><img class="title-font" src="./../assets/images/zeit.svg" />Zhihu</a
-      >
+      > -->
     </div>
     <div class="article">
       <h2>WHO AM I</h2>
