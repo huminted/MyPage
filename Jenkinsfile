@@ -1,7 +1,7 @@
 pipeline {
   environment {
     HOST_ONLINE = 'root@iwakeup.cn'
-    SOURCE_DIR = './dist/*'
+    SOURCE_DIR = './ROOT/*'
     DIS_DIR = '/home/apps/tomcat_vulome/ROOT/'
   }
 
@@ -27,6 +27,7 @@ pipeline {
     stage('Deploy') {
       steps {
           // 将打包好的文件上传到服务器
+          sh 'cp ./dist ./ROOT'
           sh 'scp -r ${SOURCE_DIR} ${HOST_ONLINE}:${DIS_DIR}'
           sh 'echo "部署成功~"'
       }
