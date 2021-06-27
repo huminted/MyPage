@@ -12,7 +12,7 @@
           Viewed by you guys for a total of
           <span id="busuanzi_value_site_pv"></span> times ♥
         </p>
-        <p id="footer-copyright">©2019 - {{ new Date().getFullYear() }} Powered By Spencer Woo</p>
+        <!-- <p id="footer-copyright">©2019 - {{ new Date().getFullYear() }} Powered By Spencer Woo</p> -->
       </div>
     </div>
   </div>
