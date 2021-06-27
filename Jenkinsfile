@@ -27,7 +27,7 @@ pipeline {
     stage('Deploy') {
       steps {
         sshagent(credentials: ['1']) {
-          sh 'ssh ${HOST_ONLINE}'
+          sh "ssh -t ${HOST_ONLINE}"
           // 将打包好的文件上传到服务器
           sh 'scp -r ${SOURCE_DIR} ${HOST_TEST}:${TARGET_DIR}'
           sh 'echo "部署成功~"'
