@@ -1,19 +1,11 @@
 pipeline {
-  agent {
-    node {
-      label '111'
-    }
-
-  }
+  agent any
   stages {
-    stage('') {
+    stage('bash test') {
       steps {
         sh 'ls'
       }
     }
 
-  }
-  environment {
-    name = '1'
   }
 }
