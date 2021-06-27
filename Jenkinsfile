@@ -27,7 +27,6 @@ pipeline {
     stage('Deploy') {
       steps {
           // 将打包好的文件上传到服务器
-          sh 'cp ./dist ./ROOT'
           sh 'scp -r ${SOURCE_DIR} ${HOST_ONLINE}:${DIS_DIR}'
           sh 'echo "部署成功~"'
       }
