@@ -1,9 +1,11 @@
 pipeline {
   agent any
   stages {
-    stage('bash test') {
+    stage('npm dependence intall') {
       steps {
-        sh 'ls'
+        sh '''npm config set registry https://registry.npm.taobao.org
+npm install --global yarn
+'''
       }
     }
 
