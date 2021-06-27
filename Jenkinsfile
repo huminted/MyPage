@@ -2,7 +2,7 @@ pipeline {
   environment {
     HOST_ONLINE = 'root@iwakeup.cn'
     SOURCE_DIR = './dist/*'
-    DIS_DIR = '/home/apps/tomcat_vulome/ROOT/'
+    DIS_DIR = '/home/apps/MyPage/'
   }
 
   agent any
