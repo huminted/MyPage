@@ -9,6 +9,7 @@ npm install --global yarn
 '''
         sh '''yarn install
         yarn build
+        ls ./dist/
         '''
       }
     }
