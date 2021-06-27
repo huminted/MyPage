@@ -1,5 +1,10 @@
 pipeline {
-  agent any
+  agent {
+    node {
+      label 'node:6-alpine'
+    }
+
+  }
   stages {
     stage('npm dependence intall') {
       steps {
