@@ -7,28 +7,12 @@ pipeline {
 
   agent any
   stages {
-    stage('Build Tools Init') {
-      steps {
-        echo '设置淘宝镜像源'
-        sh 'npm config set registry https://registry.npm.taobao.org'
-        echo '当前npm源'
-        sh 'npm config get registry'
-      }
-    }
-
-    stage('Compile') {
-      steps {
-        echo '开始编译'
-        sh 'yarn install'
-        sh 'yarn build'
-      }
-    }
-
+  
     stage('Deploy') {
       steps {
         sshagent(credentials: ['1']) {
           // 将打包好的文件上传到服务器
-          sh 'scp -r ${SOURCE_DIR} ${HOST_ONLINE}:${DIS_DIR}'
+          sh 'ssh -T root@iwakeup.cn'
           sh 'echo "部署成功~"'
         }
       }
