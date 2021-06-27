@@ -1,19 +1,21 @@
 pipeline {
-  agent {
-    node {
-      label '111'
-    }
-
-  }
+  agent any
   stages {
-    stage('') {
+    stage('Build') {
       steps {
-        sh 'ls'
+        sh '''npm config set registry https://registry.npm.taobao.org
+npm config get registry
+npm install --global yarn
+'''
+        sh '''yarn install
+        yarn build
+        ls ./dist/
+        '''
       }
     }
 
   }
-  environment {
-    name = '1'
+  tools {
+    nodejs 'NodeJS'
   }
 }
