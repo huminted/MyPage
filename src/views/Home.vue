@@ -33,7 +33,7 @@
         Some other variations:
         <a href="https://twitter.com/humin147" target="_blank" rel="noopener noreferrer">@Humin147</a> /
         <a href="https://weibo.com/win8humin" target="_blank" rel="noopener noreferrer">@Huminand</a> /
-        <a href="https://github.com/huminand" target="_blank" rel="noopener noreferrer">@Huminand</a>. You may know me
+        <a href="https://github.com/huminted" target="_blank" rel="noopener noreferrer">@Huminand</a>. You may know me
         from:<br />
         <img class="title-font" src="./../assets/images/github.svg" />GitHub /
         <img class="title-font" src="./../assets/images/weibo.svg" />Weibo /
