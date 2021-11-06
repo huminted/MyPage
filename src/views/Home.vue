@@ -31,15 +31,12 @@
       </p>
       <p>
         Some other variations:
-        <a href="https://twitter.com/humin147" target="_blank" rel="noopener noreferrer">@Humin147</a> /
         <a href="https://weibo.com/win8humin" target="_blank" rel="noopener noreferrer">@Huminand</a> /
         <a href="https://github.com/huminted" target="_blank" rel="noopener noreferrer">@Huminand</a>. You may know me
         from:<br />
         <img class="title-font" src="./../assets/images/github.svg" />GitHub /
-        <img class="title-font" src="./../assets/images/weibo.svg" />Weibo /
-        <img class="title-font" src="./../assets/images/twitter.svg" />Twitter or other places. Yes, those are also me.
+        <img class="title-font" src="./../assets/images/weibo.svg" /> Weibo  or other places. Yes, those are also me.
       </p>
-
       <h2>Programming</h2>
       <ul>
         <li>🔭 <b>Fields of interest:</b></li>
@@ -72,7 +69,10 @@
 
       <h2>Music</h2>
       <ul>
-        <li>❤️ <i>Jacky Cheung</i></li>
+        <li>
+         ❤️ <i>Jacky Cheung</i>
+         ❤️ <i>Ara Kimbo</i>
+        </li>
         <li><img class="title-font-music" src="./../assets/images/applemusic.svg" /><i>Apple Music</i></li>
         <li><img class="title-font-music" src="./../assets/images/spotify.svg" /><i>Spofity</i></li>
         <li><img class="title-font-music" src="./../assets/images/doubanfm.svg" /><i>Douban FM</i></li>
