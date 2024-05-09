@@ -23,12 +23,20 @@
       <h2>WHO AM I</h2>
       <p>
         I'm <i>Humin</i> with the ID <i>Huminand</i>. <i>❤️ ZengRui</i> <br />
-        A <i>Android Software Enginner</i> Based in Beijing
+        A <i>Android Software Enginner</i> Based in <i class="strikethrough">Beijing</i> MianYang
       </p>
 
       <p>
-        Work for <i><img class="title-font" src="./../assets/images/baidu.svg" /> Baidu Zhidao {{getYear()}} Year</i>
+        Work for <i><img class="title-font" src="./../assets/images/baidu.svg" /> Baidu Zhidao 2 Year</i>
       </p>
+      <p>
+        Work for <i><img class="title-font" src="./../assets/images/kwai.svg" /> Kwai 1.5 Year</i>
+      </p>
+
+      <p>
+        Will Study  <i><img class="title-font" src="./../assets/images/galway.svg" /> in Galway in 2024</i>
+      </p>
+
       <p>
         Some other variations:
         <a href="https://weibo.com/win8humin" target="_blank" rel="noopener noreferrer">@Huminand</a> /
@@ -164,5 +172,9 @@ export default {
 
 .title-desc-container #blog {
   color: #0070f3;
+}
+
+.strikethrough {
+   text-decoration: line-through;
 }
 </style>
