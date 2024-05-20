@@ -61,12 +61,12 @@
         </ul>
       </ul>
 
-      <h2>Devices</h2>
+      <!-- <h2>Devices</h2>
       <ul>
         <li> MacBook Pro 2020</li>
         <li> Mac Mini with M1 Chip</li>
         <li> iPhone 12 /  iPad 7th / OnePlus 5</li>
-      </ul>
+      </ul> -->
       <h2>Tools</h2>
       <ul>
         <li><img class="title-font" src="./../assets/images/as.svg" />Android Studio</li>
@@ -78,7 +78,6 @@
       <h2>Music</h2>
       <ul>
         <li>
-         ❤️ <i>Jacky Cheung</i>
          ❤️ <i>Ara Kimbo</i>
         </li>
         <li><img class="title-font-music" src="./../assets/images/applemusic.svg" /><i>Apple Music</i></li>
@@ -93,11 +92,7 @@
           <a href="mailto:humin.ted@gmail.com">humin.ted#gmail.com</a><i> (private)</i>
         </li>
 
-        <li>
-          <b>Find job? Send me your resume:</b>
-          <a href="http://hr.baidu.com/external/baidu/index.html#/jobDetail/2/189531"> </a>
-          <a href="mailto:humin06@baidu.com">humin06#baidu.com</a><i> (Company)</i>
-        </li>
+   
       </ul>
     </div>
   </div>
