@@ -27,14 +27,14 @@
       </p>
 
       <p>
-        Work for <i><img class="title-font" src="./../assets/images/baidu.svg" /> Baidu Zhidao 2 Year</i>
+        Worked for <i><img class="title-font" src="./../assets/images/baidu.svg" /> Baidu Zhidao 2 Year</i>
       </p>
       <p>
-        Work for <i><img class="title-font" src="./../assets/images/kwai.svg" /> Kwai 1.5 Year</i>
+        Worked for <i><img class="title-font" src="./../assets/images/kwai.svg" /> Kwai 1.5 Year</i>
       </p>
 
       <p>
-        Will Study  <i><img class="title-font" src="./../assets/images/galway.svg" /> in Galway in 2024</i>
+        Will Study  <i><img class="title-font" src="./../assets/images/galway.svg" /> in Galway from 2024-2015</i>
       </p>
 
       <p>
