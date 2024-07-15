@@ -2,7 +2,7 @@
   <div class="container">
     <div id="name-container">
       <img id="avatar" src="./../assets/images/av.png" alt="avatar" />
-      <h1>Kimbo / 胡敏</h1>
+      <h1>Kimbo</h1>
     </div>
     <div class="title-desc-container">
       <a id="github" href="https://github.com/huminted" target="_blank" rel="noopener noreferrer"
@@ -22,19 +22,26 @@
     <div class="article">
       <h2>WHO AM I</h2>
       <p>
-        I'm <i>Humin</i> with the ID <i>Huminand</i>. <i>❤️ ZengRui</i> <br />
-        A <i>Android Software Enginner</i> Based in <i class="strikethrough">Beijing</i> MianYang
+        I'm <i>Humin</i> with the ID <i>Kimbo</i>. <i>❤️ ZengRui</i> <br />
+        <i>Android Software Enginner</i> Based in <i class="strikethrough">Beijing</i> (MianYang Now)
       </p>
 
       <p>
-        Worked for <i><img class="title-font" src="./../assets/images/baidu.svg" /> Baidu Zhidao 2 Year</i>
+        Interned  <i><img class="title-font" src="./../assets/images/baidu.svg" /> 
+        <a class="baidulink" href="https://www.baidu.com" target="_blank">@Baidu Zhidao</a></i> 2018.11-2019.2 
       </p>
       <p>
-        Worked for <i><img class="title-font" src="./../assets/images/kwai.svg" /> Kwai 1.5 Year</i>
+        Worked  <i><img class="title-font" src="./../assets/images/baidu.svg" />
+        <a class="baidulink" href="https://www.baidu.com" target="_blank">@Baidu Zhidao/WenYiWen</a></i> 2020-2022
+      </p>
+      <p>
+        Worked <i><img class="title-font" src="./../assets/images/kwai.svg" />
+        <a  class="kwailink" href="https://kuaishou.com">@Kwai</a></i> 2022-2024
       </p>
 
       <p>
-        Will Study  <i><img class="title-font" src="./../assets/images/galway.svg" /> in Galway from 2024-2015</i>
+        Will Study  <i><img class="title-font" src="./../assets/images/galway.svg" />
+          <a class="unilink" href="https://www.universityofgalway.ie/"> @University of Galway </a></i>2024-2025
       </p>
 
       <p>
@@ -171,5 +178,15 @@ export default {
 
 .strikethrough {
    text-decoration: line-through;
+}
+
+.baidulink{
+  color: #0070f3;
+}
+.kwailink{
+  color: #FE5102;
+}
+.unilink{
+  color: #a80050;
 }
 </style>
