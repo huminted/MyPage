@@ -5,15 +5,8 @@
       <h1>Kimbo</h1>
     </div>
     <div class="title-desc-container">
-      <a id="github" href="https://github.com/huminted" target="_blank" rel="noopener noreferrer"
-        ><img class="title-font" src="./../assets/images/as.svg" />Developer</a
-      >
-      <span>/</span>
-
-      <a id="douban" href="https://www.douban.com/people/huminand/" target="_blank" rel="noopener noreferrer"
-        ><img class="title-font" src="./../assets/images/douban.svg" />Douban</a
-      >
-
+      <a id="github" href="https://github.com/huminted" target="_blank" rel="noopener noreferrer">
+        <img class="title-font" src="./../assets/images/as.svg" />Developer</a>
       <!-- <span>/</span>
       <a id="blog" href="https://www.zhihu.com/people/humin" target="_blank" rel="noopener noreferrer"
         ><img class="title-font" src="./../assets/images/zeit.svg" />Zhihu</a
@@ -22,36 +15,40 @@
     <div class="article">
       <h2>WHO AM I</h2>
       <p>
-        I'm <i>Humin</i> with the ID <i>Kimbo</i>. <i>❤️ ZengRui</i> <br />
-        <i>Android Software Enginner</i> Based in <i class="strikethrough">Beijing</i> (MianYang Now)
+        I'm <i>Humin</i> with the ID <i>Kimbo</i><br/>
+        <i>Android Application Engineer</i> Based in <i class="strikethrough">Beijing</i> (2020.7-2024.3), <i class="strikethrough">MianYang</i> (2024.3-2024.9) <br/>
+        🇮🇪🇮🇪 Now In <i>Galway Ireland</i>
       </p>
 
       <p>
-        Interned  <i><img class="title-font" src="./../assets/images/baidu.svg" /> 
+        Some other variations: <i>Min, Ted, KimboHu, huminand, tedhumin etc.</i><br />
+        You may know me from:<br />
+        <img class="title-font" src="./../assets/images/douban.svg" />Douban /
+        <img class="title-font" src="./../assets/images/github.svg" />GitHub /
+        <img class="title-font" src="./../assets/images/weibo.svg" /> Weibo  or other places. Yes, those are also me.
+        
+      </p>
+
+      <h2>Work Experience</h2>
+      <p>
+        <i><img class="title-font" src="./../assets/images/baidu.svg" /> Interned 
         <a class="baidulink" href="https://www.baidu.com" target="_blank">@Baidu Zhidao</a></i> 2018.11-2019.2 
       </p>
       <p>
-        Worked  <i><img class="title-font" src="./../assets/images/baidu.svg" />
-        <a class="baidulink" href="https://www.baidu.com" target="_blank">@Baidu Zhidao/WenYiWen</a></i> 2020-2022
+        <i><img class="title-font" src="./../assets/images/baidu.svg" /> Worked 
+        <a class="baidulink" href="https://www.baidu.com" target="_blank">@Baidu Zhidao/WenYiWen</a></i> 2020.7-2022.1
       </p>
       <p>
-        Worked <i><img class="title-font" src="./../assets/images/kwai.svg" />
-        <a  class="kwailink" href="https://kuaishou.com">@Kwai</a></i> 2022-2024
+        <i><img class="title-font" src="./../assets/images/kwai.svg" /> Worked
+        <a  class="kwailink" href="https://kuaishou.com">@Kwai</a></i> 2022.1-2024.7
       </p>
 
       <p>
-        Will Study  <i><img class="title-font" src="./../assets/images/galway.svg" />
-          <a class="unilink" href="https://www.universityofgalway.ie/"> @University of Galway </a></i>2024-2025
+        <i><img class="title-font" src="./../assets/images/galway.svg" /> Studying
+        <a class="unilink" href="https://www.universityofgalway.ie/"> @University of Galway </a></i>2024.9-2025.8
       </p>
 
-      <p>
-        Some other variations:
-        <a href="https://weibo.com/win8humin" target="_blank" rel="noopener noreferrer">@Huminand</a> /
-        <a href="https://github.com/huminted" target="_blank" rel="noopener noreferrer">@Huminand</a>. You may know me
-        from:<br />
-        <img class="title-font" src="./../assets/images/github.svg" />GitHub /
-        <img class="title-font" src="./../assets/images/weibo.svg" /> Weibo  or other places. Yes, those are also me.
-      </p>
+  
       <h2>Programming</h2>
       <ul>
         <li>🔭 <b>Fields of interest:</b></li>
@@ -61,9 +58,6 @@
             <img class="title-font" src="./../assets/images/android.svg" />Android /
             <img class="title-font" src="./../assets/images/kotlin.svg" />Kotlin /
             <img class="title-font" src="./../assets/images/js.svg" />JS
-          </li>
-          <li>
-            Documentory
           </li>
         </ul>
       </ul>
@@ -79,13 +73,14 @@
         <li><img class="title-font" src="./../assets/images/as.svg" />Android Studio</li>
         <li><img class="title-font" src="./../assets/images/idea.svg" />IDEA</li>
         <li><img class="title-font" src="./../assets/images/vsc.svg" /> Visual Studio</li>
+        <li><img class="title-font" src="./../assets/images/docker.svg" />Dcoker</li>
         <li><img class="title-font" src="./../assets/images/typora.svg" />Typora</li>
       </ul>
 
       <h2>Music</h2>
       <ul>
         <li>
-         ❤️ <i>Ara Kimbo</i>
+         ❤️ <i>Ara Kimbo, ShenXiangBand</i>
         </li>
         <li><img class="title-font-music" src="./../assets/images/applemusic.svg" /><i>Apple Music</i></li>
         <li><img class="title-font-music" src="./../assets/images/spotify.svg" /><i>Spofity</i></li>

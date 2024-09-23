@@ -3,8 +3,8 @@ import App from './App.vue'
 import VueRouter from 'vue-router'
 
 import Home from './views/Home.vue'
-import Projects from './views/Projects.vue'
-import Social from './views/Social.vue'
+
+
 import NotFound from './views/NotFound.vue'
 
 import './assets/styles/base.css'
