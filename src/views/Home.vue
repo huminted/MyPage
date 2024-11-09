@@ -83,7 +83,7 @@
          ❤️ <i>Ara Kimbo, ShenXiangBand</i>
         </li>
         <li><img class="title-font-music" src="./../assets/images/applemusic.svg" /><i>Apple Music</i></li>
-        <li><img class="title-font-music" src="./../assets/images/spotify.svg" /><i>Spofity</i></li>
+        <li><img class="title-font-music" src="./../assets/images/spotify.svg" /><i>Spotify</i></li>
         <li><img class="title-font-music" src="./../assets/images/doubanfm.svg" /><i>Douban FM</i></li>
       </ul>
 
