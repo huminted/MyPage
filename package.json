@@ -2,11 +2,10 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "serve": "vue-cli-service serve --port 3001",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint",
-    "lint-fix": "npx eslint --fix --ext .js --ext .jsx --ext .vue src/"
+  "scripts": { 
+    "serve": "export NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve", 
+    "build": "export NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service build", 
+    "lint": "export NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service lint" 
   },
   "dependencies": {
     "axios": "^0.19.0",
